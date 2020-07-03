@@ -1,0 +1,28 @@
+
+
+h5{
+      color: #FFFF;
+}
+
+p{
+  color: #FFFF;
+}
+
+.name{
+    color: #d9e1e9;
+}
+.love{
+    color: #0070e0 !important;
+}
+
+
+
+.footer{
+    margin-top: 5% !important;
+    margin-bottom: 10px;
+}
+@media (max-width: 479px) {
+     .footer{
+     margin-top: 35% !important;
+     }
+}
